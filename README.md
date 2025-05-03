@@ -148,5 +148,3 @@ Mockups serve as a visual blueprint of what a website or app will look like befo
 Each component will be designed with reusability and consistency in mind to ensure a cohesive user experience across the application.
 
 ---
-
-This structure provides a clear and professional format for your `README.md` file. Let me know if you’d like further refinements!

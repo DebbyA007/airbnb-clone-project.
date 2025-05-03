@@ -1,4 +1,4 @@
-# airbnb-clone-project.
+# Airbnb-clone-project
 Here’s your content rewritten and formatted for a professional `README.md` file:
 
 ---
@@ -23,7 +23,7 @@ By the end of this project, you will have developed the skills and knowledge to 
 
 ## Features Overview 🛠️
 
-### Key Features:
+### Key Features to be implemented:
 1. **Property Listings**: Display properties with relevant details and images.
 2. **Booking System**: Allow users to book properties, view booking details, and manage bookings.
 3. **Search Functionality**: Enable users to search for properties based on location, price, availability, etc.

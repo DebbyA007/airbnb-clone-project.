@@ -1,5 +1,4 @@
 # Airbnb-clone-project
-Here’s your content rewritten and formatted for a professional `README.md` file:
 
 ---
 
